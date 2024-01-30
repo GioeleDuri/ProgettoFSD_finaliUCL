@@ -1,0 +1,69 @@
+season,winner_nation,winner_team,score,runner_nation,runner_team,venue,attendance,extra_time,penalty,replay
+1955-56,ESP,Real Madrid,4-3,FRA,Reims,"Parc des Princes, Paris, France",38239,0,0,0
+1956-57,ESP,Real Madrid,2-0,ITA,Fiorentina,"Santiago Bernabéu, Madrid, Spain",124000,0,0,0
+1957-58,ESP,Real Madrid,3-2,ITA,Milan,"Heysel Stadium, Brussels, Belgium",67000,1,0,0
+1958-59,ESP,Real Madrid,2-0,FRA,Reims,"Neckarstadion, Stuttgart, West Germany",72000,0,0,0
+1959-60,ESP,Real Madrid,7-3,GER,Eintracht Frankfurt,"Hampden Park, Glasgow, Scotland",127621,0,0,0
+1960-61,POR,Benfica,3-2,ESP,Barcelona,"Wankdorf Stadium, Bern, Switzerland",26732,0,0,0
+1961-62,POR,Benfica,5-3,ESP,Real Madrid,"Olympisch Stadion, Amsterdam, Netherlands",61257,0,0,0
+1962-63,ITA,Milan,2-1,POR,Benfica,"Wembley Stadium, London, England",45715,0,0,0
+1963-64,ITA,Inter Milan,3-1,ESP,Real Madrid,"Praterstadion, Vienna, Austria",71333,0,0,0
+1964-65,ITA,Inter Milan,1-0,POR,Benfica,"San Siro, Milan, Italy",89000,0,0,0
+1965-66,ESP,Real Madrid,2-1,YUG,Partizan,"Heysel Stadium, Brussels, Belgium",46745,0,0,0
+1966-67,SCO,Celtic,2-1,ITA,Inter Milan,"Estádio Nacional, Lisbon, Portugal",45000,0,0,0
+1967-68,ENG,Manchester United,4-1,POR,Benfica,"Wembley Stadium, London, England",92225,1,0,0
+1968-69,ITA,Milan,4-1,NED,Ajax,"Santiago Bernabéu, Madrid, Spain",31782,0,0,0
+1969-70,NED,Feyenoord,2-1,SCO,Celtic,"San Siro, Milan, Italy",53187,1,0,0
+1970-71,NED,Ajax,2-0,GRE,Panathinaikos,"Wembley Stadium, London, England",83179,0,0,0
+1971-72,NED,Ajax,2-0,ITA,Inter Milan,"De Kuip, Rotterdam, Netherlands",61354,0,0,0
+1972-73,NED,Ajax,1-0,ITA,Juventus,"Red Star Stadium, Belgrade, SFR Yugoslavia",89484,0,0,0
+1973-74,GER,Bayern Munich,1-1,ESP,Atlético Madrid,"Heysel Stadium, Brussels, Belgium",48722,0,0,0
+1973-74,GER,Bayern Munich,4-0,ESP,Atlético Madrid,"Heysel Stadium, Brussels, Belgium",23325,0,0,1
+1974-75,GER,Bayern Munich,2-0,ENG,Leeds United,"Parc des Princes, Paris, France",48374,0,0,0
+1975-76,GER,Bayern Munich,1-0,FRA,Saint-Étienne,"Hampden Park, Glasgow, Scotland",54864,0,0,0
+1976-77,ENG,Liverpool,3-1,GER,Borussia Mönchengladbach,"Stadio Olimpico, Rome, Italy",57000,0,0,0
+1977-78,ENG,Liverpool,1-0,BEL,Club Brugge,"Wembley Stadium, London, England",92500,0,0,0
+1978-79,ENG,Nottingham Forest,1-0,SWE,Malmö FF,"Olympiastadion, Munich, West Germany",57500,0,0,0
+1979-80,ENG,Nottingham Forest,1-0,GER,Hamburger SV,"Santiago Bernabéu, Madrid, Spain",51000,0,0,0
+1980-81,ENG,Liverpool,1-0,ESP,Real Madrid,"Parc des Princes, Paris, France",48360,0,0,0
+1981-82,ENG,Aston Villa,1-0,GER,Bayern Munich,"De Kuip, Rotterdam, Netherlands",46000,0,0,0
+1982-83,GER,Hamburger SV,1-0,ITA,Juventus,"Olympic Stadium, Athens, Greece",73500,0,0,0
+1983-84,ENG,Liverpool,1-1,ITA,Roma,"Stadio Olimpico, Rome, Italy",69693,0,1,0
+1984-85,ITA,Juventus,1-0,ENG,Liverpool,"Heysel Stadium, Brussels, Belgium",58000,0,0,0
+1985-86,ROU,Steaua Bucure?ti,0-0,ESP,Barcelona,"Ramón Sánchez Pizjuán, Seville, Spain",70000,0,1,0
+1986-87,POR,Porto,2-1,GER,Bayern Munich,"Praterstadion, Vienna, Austria",57500,0,0,0
+1987-88,NED,PSV Eindhoven,0-0,POR,Benfica,"Neckarstadion, Stuttgart, West Germany",68000,0,1,0
+1988-89,ITA,Milan,4-0,ROU,Steaua Bucure?ti,"Camp Nou, Barcelona, Spain",97000,0,0,0
+1989-90,ITA,Milan,1-0,POR,Benfica,"Praterstadion, Vienna, Austria",57558,0,0,0
+1990-91,YUG,Red Star Belgrade,0-0,FRA,Marseille,"Stadio San Nicola, Bari, Italy",56000,0,1,0
+1991-92,ESP,Barcelona,1-0,ITA,Sampdoria,"Wembley Stadium, London, England",70827,1,0,0
+1992-93,FRA,Marseille,1-0,ITA,Milan,"Olympiastadion, Munich, Germany",64400,0,0,0
+1993-94,ITA,Milan,4-0,ESP,Barcelona,"Olympic Stadium, Athens, Greece",70000,0,0,0
+1994-95,NED,Ajax,1-0,ITA,Milan,"Ernst-Happel-Stadion, Vienna, Austria",49730,0,0,0
+1995-96,ITA,Juventus,1-1,NED,Ajax,"Stadio Olimpico, Rome, Italy",70000,0,1,0
+1996-97,GER,Borussia Dortmund,3-1,ITA,Juventus,"Olympiastadion, Munich, Germany",59000,0,0,0
+1997-98,ESP,Real Madrid,1-0,ITA,Juventus,"Amsterdam Arena, Amsterdam, Netherlands",48500,0,0,0
+1998-99,ENG,Manchester United,2-1,GER,Bayern Munich,"Camp Nou, Barcelona, Spain",90245,0,0,0
+1999-2000,ESP,Real Madrid,3-0,ESP,Valencia,"Stade de France, Saint-Denis, France",80000,0,0,0
+2000-01,GER,Bayern Munich,1-1,ESP,Valencia,"San Siro, Milan, Italy",71500,0,1,0
+2001-02,ESP,Real Madrid,2-1,GER,Bayer Leverkusen,"Hampden Park, Glasgow, Scotland",50499,0,0,0
+2002-03,ITA,Milan,0-0,ITA,Juventus,"Old Trafford, Manchester, England",62315,0,1,0
+2003-04,POR,Porto,3-0,FRA,Monaco,"Arena AufSchalke, Gelsenkirchen, Germany",53053,0,0,0
+2004-05,ENG,Liverpool,3-3,ITA,Milan,"Atatürk Olympic Stadium, Istanbul, Turkey",69000,0,1,0
+2005-06,ESP,Barcelona,2-1,ENG,Arsenal,"Stade de France, Saint-Denis, France",79610,0,0,0
+2006-07,ITA,Milan,2-1,ENG,Liverpool,"Olympic Stadium, Athens, Greece",63000,0,0,0
+2007-08,ENG,Manchester United,1-1,ENG,Chelsea,"Luzhniki Stadium, Moscow, Russia",67310,0,1,0
+2008-09,ESP,Barcelona,2-0,ENG,Manchester United,"Stadio Olimpico, Rome, Italy",62467,0,0,0
+2009-10,ITA,Inter Milan,2-0,GER,Bayern Munich,"Santiago Bernabéu, Madrid, Spain",73490,0,0,0
+2010-11,ESP,Barcelona,3-1,ENG,Manchester United,"Wembley Stadium, London, England",87695,0,0,0
+2011-12,ENG,Chelsea,1-1,GER,Bayern Munich,"Allianz Arena, Munich, Germany",62500,0,1,0
+2012-13,GER,Bayern Munich,2-1,GER,Borussia Dortmund,"Wembley Stadium, London, England",86298,0,0,0
+2013-14,ESP,Real Madrid,4-1,ESP,Atlético Madrid,"Estádio da Luz, Lisbon, Portugal",60976,1,0,0
+2014-15,ESP,Barcelona,3-1,ITA,Juventus,"Olympiastadion, Berlin, Germany",70442,0,0,0
+2015-16,ESP,Real Madrid,1-1,ESP,Atlético Madrid,"San Siro, Milan, Italy",71942,0,1,0
+2016-17,ESP,Real Madrid,4-1,ITA,Juventus,"Millennium Stadium, Cardiff, Wales",65842,0,0,0
+2017-18,ESP,Real Madrid,3-1,ENG,Liverpool,"NSC Olimpiyskiy Stadium, Kyiv, Ukraine",61561,0,0,0
+2018-19,ENG,Liverpool,2-0,ENG,Tottenham Hotspur,"Metropolitano Stadium, Madrid, Spain",63272,0,0,0
+2019-20,GER,Bayern Munich,1-0,FRA,Paris Saint-Germain,"Estádio da Luz, Lisbon, Portugal[l]",0,1,0,0
+2020-21,ENG,Chelsea,1-0,ENG,Manchester City,"Estádio do Dragão, Porto, Portugal[n]","14,110",2,0,0
+2021-22,ESP,Real Madrid,1-0,ENG,Liverpool,"Stade de France, Saint-Denis, France[p]",75000,3,0,0
